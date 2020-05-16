@@ -1,0 +1,23 @@
+How many classes are there that have an above-average 70 for science?  - 8
+
+How many classes are there that have an above-average 70 for literature?  - 0
+
+What are the top 3 classes of grade 10? (based on student score average )? 
+1st place - 10-I
+2nd place - 10-D
+3rd place - 10-A
+
+Who scored best in each grade 10 class?
+10-A: ['10-A_001100', '10-A_003000']
+10-B: ['10-B_002000']
+10-C: ['10-C_001200']
+10-D: ['10-D_001400']
+10-E: ['10-E_002200']
+10-F: ['10-F_00100']
+10-G: ['10-G_003000']
+10-H: ['10-H_003100']
+10-I: ['10-I_001200']
+
+How many 1st places are there in grade 10   - 10
+
+Section 1st student ID   - ['10-C_001200']
